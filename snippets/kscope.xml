@@ -5,7 +5,7 @@
            fetch="https://github.com/" />
 
   <remote  name="kscope"
-           fetch="https://github.com/Project-Kaleidoscope"
+           fetch="https://ghproxy.com/https://github.com/Project-Kaleidoscope"
            review="https://review.kaleidoscope.ink/"
            revision="refs/heads/sunflowerleaf" />
 
